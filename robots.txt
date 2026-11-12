@@ -1,0 +1,3 @@
+# Demo website — please do not crawl or index.
+User-agent: *
+Disallow: /

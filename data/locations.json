@@ -1,0 +1,112 @@
+{
+  "locations": [
+    {
+      "id": "demo-hospital-central",
+      "type": "hospital",
+      "name": "Demo Hospital: Central",
+      "address": "Central Bengaluru, Karnataka, India",
+      "latitude": 12.976,
+      "longitude": 77.599,
+      "consultationDays": "Monday and Wednesday",
+      "consultationHours": "10:00 AM to 1:00 PM",
+      "showMap": true,
+      "section": "Hospitals & clinics"
+    },
+    {
+      "id": "demo-hospital-east",
+      "type": "hospital",
+      "name": "Demo Hospital: East",
+      "address": "East Bengaluru, Karnataka, India",
+      "latitude": 12.971,
+      "longitude": 77.67,
+      "consultationDays": "Thursday",
+      "consultationHours": "10:00 AM to 1:00 PM",
+      "showMap": true,
+      "section": "Hospitals & clinics"
+    },
+    {
+      "id": "demo-hospital-north",
+      "type": "hospital",
+      "name": "Demo Hospital: North",
+      "address": "North Bengaluru, Karnataka, India",
+      "latitude": 13.035,
+      "longitude": 77.597,
+      "consultationDays": "Tuesday",
+      "consultationHours": "10:00 AM to 1:00 PM",
+      "showMap": true,
+      "section": "Hospitals & clinics"
+    },
+    {
+      "id": "demo-clinic-south",
+      "type": "clinic",
+      "name": "Demo Clinic: South",
+      "address": "South Bengaluru, Karnataka, India",
+      "latitude": 12.92,
+      "longitude": 77.6,
+      "consultationDays": "Saturday",
+      "consultationHours": "4:00 PM to 7:00 PM",
+      "showMap": true,
+      "section": "Hospitals & clinics"
+    },
+    {
+      "id": "demo-surgical-hospital",
+      "type": "hospital",
+      "name": "Demo Surgical Hospital: West",
+      "address": "West Bengaluru, Karnataka, India",
+      "latitude": 12.99,
+      "longitude": 77.55,
+      "consultationDays": "Surgery admission by arrangement",
+      "consultationHours": "",
+      "showMap": true,
+      "section": "Surgeries"
+    },
+    {
+      "id": "demo-specialty-hospital",
+      "type": "hospital",
+      "name": "Demo Specialty Hospital: South",
+      "address": "South Bengaluru, Karnataka, India",
+      "latitude": 12.91,
+      "longitude": 77.58,
+      "consultationDays": "Surgery admission by arrangement",
+      "consultationHours": "",
+      "showMap": true,
+      "section": "Surgeries"
+    },
+    {
+      "id": "demo-hospital-whitefield",
+      "type": "hospital",
+      "name": "Demo Hospital: Whitefield",
+      "address": "Whitefield, Bengaluru, Karnataka, India",
+      "latitude": 12.9698,
+      "longitude": 77.75,
+      "consultationDays": "Friday",
+      "consultationHours": "10:00 AM to 1:00 PM",
+      "showMap": true,
+      "section": "Visiting consultant at"
+    },
+    {
+      "id": "demo-hospital-jayanagar",
+      "type": "hospital",
+      "name": "Demo Hospital: Jayanagar",
+      "address": "Jayanagar, Bengaluru, Karnataka, India",
+      "latitude": 12.929,
+      "longitude": 77.58,
+      "consultationDays": "Tuesday and Saturday",
+      "consultationHours": "4:00 PM to 7:00 PM",
+      "showMap": true,
+      "section": "Visiting consultant at"
+    },
+    {
+      "id": "demo-hospital-yelahanka",
+      "type": "hospital",
+      "name": "Demo Hospital: Yelahanka",
+      "address": "Yelahanka, Bengaluru, Karnataka, India",
+      "latitude": 13.1,
+      "longitude": 77.596,
+      "consultationDays": "Thursday",
+      "consultationHours": "4:00 PM to 6:00 PM",
+      "showMap": true,
+      "section": "Visiting consultant at"
+    }
+  ]
+}
